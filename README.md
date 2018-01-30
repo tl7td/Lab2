@@ -9,4 +9,5 @@ Activity 3:
   I added a few comments for readability for whoever that cannot read code. 
 
 Activity 4: https://github.com/UVA-CS3240-S18/IveGotIssues/issues/96
+
 Activity 5: https://github.com/tl7td/hello-world
